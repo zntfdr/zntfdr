@@ -1,16 +1,13 @@
-### Hi there 👋
+![Hi! This is Federico.][header]
 
-<!--
-**zntfdr/zntfdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer that has found a new home in South East Asia, currently enjoying my time in Bangkok, Thailand 🇹🇭. I build products for Apple platforms, and have a strong passion for Swift, minimalism, and design. When I'm not busy automating things, you can find me writing at [fivestars.blog][fs] and/or playing with the latest shiny toys ✨.
 
-Here are some ideas to get you started:
+# 👇🏻💯
+- ⭐️ [fivestars.blog][fs]
+- 🚇 [yourmetro.app][metro]
+- 📝 [wwdcnotes.com][wwdcnotes]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[header]: https://raw.githubusercontent.com/zntfdr/zntfdr/master/header.gif
+[fs]: https://fivestars.blog
+[metro]: https://yourmetro.app
+[wwdcnotes]: https://wwdcnotes.com
